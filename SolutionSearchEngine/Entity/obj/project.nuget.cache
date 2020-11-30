@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "arf4h3kB0HNCshLX1pFe+tPcpIvSL1FbUhvpQOHwUljwOyl3aLkEPrLUNhMoyoEvJj0Xl59l48LKke3K/nKV6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcjdu\\source\\repos\\ConsoleApp1 - copia\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

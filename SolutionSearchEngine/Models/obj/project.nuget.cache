@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fFNH90e/4n0zmFLQB62VpbKLRiowYqDuxQ0i5XFNn1tNjqpWDT1EC4oZWx53+0WAU1ivhod+4ZT1IelTnTJrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcjdu\\source\\repos\\ConsoleApp1 - copia\\Models\\Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

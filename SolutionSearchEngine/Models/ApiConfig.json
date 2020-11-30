@@ -1,0 +1,28 @@
+[
+  {
+    "baseuri": "https://www.googleapis.com/customsearch/v1",
+    "name_searcher": "Google Search",
+    "headers": {},
+    "uri_params": [
+      "?key=AIzaSyDJ2eyO3D0r5KpgCkAGPQf5QqwQZDDPPM4",
+      "&cx=74f5c1112402561d7",
+      "&q={query}"
+    ],
+    "nodes_result": {
+      "searchInformation": "totalResults"
+    }
+  },
+  {
+    "baseuri": "https://api.bing.microsoft.com/v7.0/search",
+    "name_searcher": "Bing Search",
+    "headers": {
+      "Ocp-Apim-Subscription-Key": "bf7feb0267494d5ea601f15dc63bcaa5"
+    },
+    "uri_params": [
+      "?q={query}"
+    ],
+    "nodes_result": {
+      "webPages": "totalEstimatedMatches"
+    }
+  }
+]

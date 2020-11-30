@@ -1,0 +1,13 @@
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\ApiConfig.json
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.csproj.CopyComplete
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\jcjdu\source\repos\ConsoleApp1 - copia\Models\obj\Debug\netstandard2.0\Logic.pdb
