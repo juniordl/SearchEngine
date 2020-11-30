@@ -11,7 +11,8 @@ This is a console application that receives multiple arguments, does a search in
 
 ### Execution
 
-Open the cmd console in the application path and enter the words to search\
+1. Download all content folder CompileSeachEngine
+2. Open the cmd console in the application path and enter the words to search\
 ```sh
 F:\path> SearchEngine.exe java .net
 
